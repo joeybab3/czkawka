@@ -1,4 +1,4 @@
-# Instruction
+# Instructions
 
 - [GUI](#gui-gtk)
 - [CLI](#cli)

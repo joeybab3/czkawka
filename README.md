@@ -146,7 +146,7 @@ You can help by creating:
 - Feature proposals - proposal to change/add/delete some features
 - Pull Requests - implementing a new feature yourself or fixing bugs.
   If the change is bigger, then it's a good idea to open a new issue to discuss changes, but issues with label `PR welcome` are already checked and accepted.
-- Documentation - There is an [instruction](instructions/Instruction.md) which you can improve.
+- Documentation - There are [instructions](instructions/Instructions.md) which you can improve.
 - Translations - Instruction how to translate files is available [here](instructions/Translations.md)
 
 You can also help by doing other things:
